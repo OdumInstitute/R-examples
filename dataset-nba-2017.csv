@@ -1,0 +1,417 @@
+year,team,wins,champ,eastern,topall,topconf
+2017,Atlanta Hawks,43,0,1,0,0
+2017,Cleveland Cavaliers,51,0,1,0,0
+2017,Chicago Bulls,41,0,1,0,0
+2017,Toronto Raptors,51,0,1,0,0
+2017,Washington Wizards,49,0,1,0,0
+2017,Milwaukee Bucks,42,0,1,0,0
+2017,Boston Celtics,53,0,1,0,1
+2017,Brooklyn Nets,20,0,1,0,0
+2017,Golden State Warriors,67,1,0,1,1
+2017,Houston Rockets,55,0,0,0,0
+2017,LA Clippers,51,0,0,0,0
+2017,Memphis Grizzlies,43,0,0,0,0
+2017,San Antonio Spurs,61,0,0,0,0
+2017,Portland Trail Blazers,41,0,0,0,0
+2017,Dallas Mavericks,33,0,0,0,0
+2017,New Orleans Pelicans,34,0,0,0,0
+2016,Atlanta Hawks,48,0,1,0,0
+2016,Cleveland Cavaliers,57,1,1,0,1
+2016,Chicago Bulls,42,0,1,0,0
+2016,Toronto Raptors,56,0,1,0,0
+2016,Washington Wizards,41,0,1,0,0
+2016,Milwaukee Bucks,33,0,1,0,0
+2016,Boston Celtics,48,0,1,0,0
+2016,Brooklyn Nets,21,0,1,0,0
+2016,Golden State Warriors,73,0,0,1,1
+2016,Houston Rockets,41,0,0,0,0
+2016,LA Clippers,53,0,0,0,0
+2016,Memphis Grizzlies,42,0,0,0,0
+2016,San Antonio Spurs,67,0,0,0,0
+2016,Portland Trail Blazers,44,0,0,0,0
+2016,Dallas Mavericks,42,0,0,0,0
+2016,New Orleans Pelicans,30,0,0,0,0
+2015,Atlanta Hawks,60,0,1,0,1
+2015,Cleveland Cavaliers,53,0,1,0,0
+2015,Chicago Bulls,50,0,1,0,0
+2015,Toronto Raptors,49,0,1,0,0
+2015,Washington Wizards,46,0,1,0,0
+2015,Milwaukee Bucks,41,0,1,0,0
+2015,Boston Celtics,40,0,1,0,0
+2015,Brooklyn Nets,38,0,1,0,0
+2015,Golden State Warriors,67,1,0,1,1
+2015,Houston Rockets,56,0,0,0,0
+2015,LA Clippers,56,0,0,0,0
+2015,Memphis Grizzlies,55,0,0,0,0
+2015,San Antonio Spurs,55,0,0,0,0
+2015,Portland Trail Blazers,51,0,0,0,0
+2015,Dallas Mavericks,50,0,0,0,0
+2015,New Orleans Pelicans,45,0,0,0,0
+2014,Indiana Pacers,56,0,1,0,1
+2014,Miami Heat,54,0,1,0,0
+2014,Toronto Raptors,48,0,1,0,0
+2014,Chicago Bulls,48,0,1,0,0
+2014,Washington Wizards,44,0,1,0,0
+2014,Brooklyn Nets,44,0,1,0,0
+2014,Charlotte Bobcats,43,0,1,0,0
+2014,Atlanta Hawks,38,0,1,0,0
+2014,San Antonio Spurs,62,1,0,1,1
+2014,Oklahoma City Thunder,59,0,0,0,0
+2014,LA Clippers,57,0,0,0,0
+2014,Houston Rockets,54,0,0,0,0
+2014,Portland Trail Blazers,54,0,0,0,0
+2014,Golden State Warriors,51,0,0,0,0
+2014,Memphis Grizzlies,50,0,0,0,0
+2014,Dallas Mavericks,49,0,0,0,0
+2013,Miami Heat,66,1,1,1,1
+2013,New York Knicks,54,0,1,0,0
+2013,Indiana Pacers,49,0,1,0,0
+2013,Brooklyn Nets,49,0,1,0,0
+2013,Chicago Bulls,45,0,1,0,0
+2013,Atlanta Hawks,44,0,1,0,0
+2013,Boston Celtics,41,0,1,0,0
+2013,Milwaukee Bucks,38,0,1,0,0
+2013,Oklahoma City Thunder,60,0,0,0,1
+2013,San Antonio Spurs,58,0,0,0,0
+2013,Denver Nuggets,57,0,0,0,0
+2013,LA Clippers,56,0,0,0,0
+2013,Memphis Grizzlies,56,0,0,0,0
+2013,Golden State Warriors,47,0,0,0,0
+2013,LA Lakers,45,0,0,0,0
+2013,Houston Rockets,45,0,0,0,0
+2011,Chicago Bulls,62,0,1,1,1
+2011,Miami Heat,58,0,1,0,0
+2011,Boston Celtics,56,0,1,0,0
+2011,Orlando Magic,52,0,1,0,0
+2011,Atlanta Hawks,44,0,1,0,0
+2011,New York Knicks,42,0,1,0,0
+2011,Philadelphia 76ers,41,0,1,0,0
+2011,Indiana Pacers,37,0,1,0,0
+2011,San Antonio Spurs,61,0,0,0,1
+2011,LA Lakers,57,0,0,0,0
+2011,Dallas Mavericks,57,1,0,0,0
+2011,Oklahoma City Thunder,55,0,0,0,0
+2011,Denver Nuggets,50,0,0,0,0
+2011,Portland Trail Blazers,48,0,0,0,0
+2011,New Orleans Hornets,46,0,0,0,0
+2011,Memphis Grizzlies,46,0,0,0,0
+2010,Cleveland Cavaliers,61,0,1,1,1
+2010,Orlando Magic,59,0,1,0,0
+2010,Atlanta Hawks,53,0,1,0,0
+2010,Boston Celtics,50,0,1,0,0
+2010,Miami Heat,47,0,1,0,0
+2010,Milwaukee Bucks,46,0,1,0,0
+2010,Charlotte Bobcats,44,0,1,0,0
+2010,Chicago Bulls,41,0,1,0,0
+2010,LA Lakers,57,1,0,0,1
+2010,Dallas Mavericks,55,0,0,0,0
+2010,Phoenix Suns,54,0,0,0,0
+2010,Denver Nuggets,53,0,0,0,0
+2010,Utah Jazz,53,0,0,0,0
+2010,Portland Trail Blazers,50,0,0,0,0
+2010,San Antonio Spurs,50,0,0,0,0
+2010,Oklahoma City Thunder,50,0,0,0,0
+2009,Cleveland Cavaliers,66,0,1,1,1
+2009,Boston Celtics,62,0,1,0,0
+2009,Orlando Magic,59,0,1,0,0
+2009,Atlanta Hawks,47,0,1,0,0
+2009,Miami Heat,43,0,1,0,0
+2009,Philadelphia 76ers,41,0,1,0,0
+2009,Chicago Bulls,41,0,1,0,0
+2009,Detroit Pistons,39,0,1,0,0
+2009,LA Lakers,65,1,0,0,1
+2009,Denver Nuggets,54,0,0,0,0
+2009,San Antonio Spurs,54,0,0,0,0
+2009,Portland Trail Blazers,54,0,0,0,0
+2009,Houston Rockets,53,0,0,0,0
+2009,Dallas Mavericks,50,0,0,0,0
+2009,New Orleans Hornets,49,0,0,0,0
+2009,Utah Jazz,48,0,0,0,0
+2008,Boston Celtics,66,1,1,1,1
+2008,Detroit Pistons,59,0,1,0,0
+2008,Orlando Magic,52,0,1,0,0
+2008,Cleveland Cavaliers,45,0,1,0,0
+2008,Washington Wizards,43,0,1,0,0
+2008,Toronto Raptors,41,0,1,0,0
+2008,Philadelphia 76ers,40,0,1,0,0
+2008,Atlanta Hawks,37,0,1,0,0
+2008,LA Lakers,57,0,0,0,1
+2008,New Orleans Hornets,56,0,0,0,0
+2008,San Antonio Spurs,56,0,0,0,0
+2008,Houston Rockets,55,0,0,0,0
+2008,Phoenix Suns,55,0,0,0,0
+2008,Utah Jazz,54,0,0,0,0
+2008,Dallas Mavericks,51,0,0,0,0
+2008,Denver Nuggets,50,0,0,0,0
+2007,Detroit Pistons,53,0,1,0,1
+2007,Cleveland Cavaliers,50,0,1,0,0
+2007,Chicago Bulls,49,0,1,0,0
+2007,Toronto Raptors,47,0,1,0,0
+2007,Miami Heat,44,0,1,0,0
+2007,New Jersey Nets,41,0,1,0,0
+2007,Washington Wizards,41,0,1,0,0
+2007,Orlando Magic,40,0,1,0,0
+2007,Dallas Mavericks,67,0,0,1,1
+2007,Phoenix Suns,61,0,0,0,0
+2007,San Antonio Spurs,58,1,0,0,0
+2007,Houston Rockets,52,0,0,0,0
+2007,Utah Jazz,51,0,0,0,0
+2007,Denver Nuggets,45,0,0,0,0
+2007,LA Lakers,42,0,0,0,0
+2007,Golden State Warriors,42,0,0,0,0
+2006,Detroit Pistons,64,0,1,1,1
+2006,Miami Heat,52,1,1,0,0
+2006,Cleveland Cavaliers,50,0,1,0,0
+2006,New Jersey Nets,49,0,1,0,0
+2006,Washington Wizards,42,0,1,0,0
+2006,Indiana Pacers,41,0,1,0,0
+2006,Chicago Bulls,41,0,1,0,0
+2006,Milwaukee Bucks,40,0,1,0,0
+2006,San Antonio Spurs,63,0,0,0,1
+2006,Dallas Mavericks,60,0,0,0,0
+2006,Phoenix Suns,54,0,0,0,0
+2006,Memphis Grizzlies,49,0,0,0,0
+2006,LA Clippers,47,0,0,0,0
+2006,LA Lakers,45,0,0,0,0
+2006,Denver Nuggets,44,0,0,0,0
+2006,Sacramento Kings,44,0,0,0,0
+2005,Miami Heat,59,0,1,0,1
+2005,Detroit Pistons,54,0,1,0,0
+2005,Chicago Bulls,47,0,1,0,0
+2005,Boston Celtics,45,0,1,0,0
+2005,Washington Wizards,45,0,1,0,0
+2005,Indiana Pacers,44,0,1,0,0
+2005,Philadelphia 76ers,43,0,1,0,0
+2005,New Jersey Nets,42,0,1,0,0
+2005,Phoenix Suns,62,0,0,1,1
+2005,San Antonio Spurs,59,1,0,0,0
+2005,Dallas Mavericks,58,0,0,0,0
+2005,Seattle Supersonics,52,0,0,0,0
+2005,Houston Rockets,51,0,0,0,0
+2005,Sacramento Kings,50,0,0,0,0
+2005,Denver Nuggets,49,0,0,0,0
+2005,Memphis Grizzlies,45,0,0,0,0
+2004,Indiana Pacers,61,0,1,1,1
+2004,Detroit Pistons,54,1,1,0,0
+2004,New Jersey Nets,47,0,1,0,0
+2004,Miami Heat,42,0,1,0,0
+2004,New Orleans Hornets,41,0,1,0,0
+2004,Milwaukee Bucks,41,0,1,0,0
+2004,New York Knicks,39,0,1,0,0
+2004,Boston Celtics,36,0,1,0,0
+2004,Minnesota Timberwolves,58,0,0,0,1
+2004,San Antonio Spurs,57,0,0,0,0
+2004,LA Lakers,56,0,0,0,0
+2004,Sacramento Kings,55,0,0,0,0
+2004,Dallas Mavericks,52,0,0,0,0
+2004,Memphis Grizzlies,50,0,0,0,0
+2004,Houston Rockets,45,0,0,0,0
+2004,Denver Nuggets,43,0,0,0,0
+2003,Detroit Pistons,50,0,1,0,1
+2003,New Jersey Nets,49,0,1,0,0
+2003,Indiana Pacers,48,0,1,0,0
+2003,Philadelphia 76ers,48,0,1,0,0
+2003,New Orleans Hornets,47,0,1,0,0
+2003,Boston Celtics,44,0,1,0,0
+2003,Milwaukee Bucks,42,0,1,0,0
+2003,Orlando Magic,42,0,1,0,0
+2003,San Antonio Spurs,60,1,0,1,1
+2003,Dallas Mavericks,60,0,0,0,0
+2003,Sacramento Kings,59,0,0,0,0
+2003,Minnesota Timberwolves,51,0,0,0,0
+2003,LA Lakers,50,0,0,0,0
+2003,Portland Trail Blazers,50,0,0,0,0
+2003,Utah Jazz,47,0,0,0,0
+2003,Phoenix Suns,44,0,0,0,0
+2002,New Jersey Nets,52,0,1,0,1
+2002,Detroit Pistons,50,0,1,0,0
+2002,Boston Celtics,49,0,1,0,0
+2002,Charlotte Hornets,44,0,1,0,0
+2002,Orlando Magic,44,0,1,0,0
+2002,Philadelphia 76ers,43,0,1,0,0
+2002,Toronto Raptors,42,0,1,0,0
+2002,Indiana Pacers,42,0,1,0,0
+2002,Sacramento Kings,61,0,0,1,1
+2002,San Antonio Spurs,58,0,0,0,0
+2002,LA Lakers,58,1,0,0,0
+2002,Dallas Mavericks,57,0,0,0,0
+2002,Minnesota Timberwolves,50,0,0,0,0
+2002,Portland Trail Blazers,49,0,0,0,0
+2002,Seattle Supersonics,45,0,0,0,0
+2002,Utah Jazz,44,0,0,0,0
+2001,Philadelphia 76ers,56,0,1,0,1
+2001,Milwaukee Bucks,52,0,1,0,0
+2001,Miami Heat,50,0,1,0,0
+2001,New York Knicks,48,0,1,0,0
+2001,Toronto Raptors,47,0,1,0,0
+2001,Charlotte Hornets,46,0,1,0,0
+2001,Orlando Magic,43,0,1,0,0
+2001,Indiana Pacers,41,0,1,0,0
+2001,San Antonio Spurs,58,0,0,1,1
+2001,LA Lakers,56,1,0,0,0
+2001,Sacramento Kings,55,0,0,0,0
+2001,Utah Jazz,53,0,0,0,0
+2001,Dallas Mavericks,53,0,0,0,0
+2001,Phoenix Suns,51,0,0,0,0
+2001,Portland Trail Blazers,50,0,0,0,0
+2001,Minnesota Timberwolves,47,0,0,0,0
+2000,Indiana Pacers,56,0,1,0,1
+2000,Miami Heat,52,0,1,0,0
+2000,New York Knicks,50,0,1,0,0
+2000,Philadelphia 76ers,49,0,1,0,0
+2000,Charlotte Hornets,49,0,1,0,0
+2000,Toronto Raptors,45,0,1,0,0
+2000,Detroit Pistons,42,0,1,0,0
+2000,Milwaukee Bucks,42,0,1,0,0
+2000,LA Lakers,67,1,0,1,1
+2000,Portland Trail Blazers,59,0,0,0,0
+2000,Utah Jazz,55,0,0,0,0
+2000,San Antonio Spurs,53,0,0,0,0
+2000,Phoenix Suns,53,0,0,0,0
+2000,Minnesota Timberwolves,50,0,0,0,0
+2000,Seattle Supersonics,45,0,0,0,0
+2000,Sacramento Kings,44,0,0,0,0
+1998,Chicago Bulls,62,1,1,1,1
+1998,Indiana Pacers,58,0,1,0,0
+1998,Miami Heat,55,0,1,0,0
+1998,Charlotte Hornets,51,0,1,0,0
+1998,Atlanta Hawks,50,0,1,0,0
+1998,Cleveland Cavaliers,47,0,1,0,0
+1998,New York Knicks,43,0,1,0,0
+1998,New Jersey Nets,43,0,1,0,0
+1998,Utah Jazz,62,0,0,0,1
+1998,Seattle Supersonics,61,0,0,0,0
+1998,LA Lakers,61,0,0,0,0
+1998,Phoenix Suns,56,0,0,0,0
+1998,San Antonio Spurs,56,0,0,0,0
+1998,Portland Trail Blazers,46,0,0,0,0
+1998,Minnesota Timberwolves,45,0,0,0,0
+1998,Houston Rockets,41,0,0,0,0
+1997,Chicago Bulls,69,1,1,1,1
+1997,Miami Heat,61,0,1,0,0
+1997,New York Knicks,57,0,1,0,0
+1997,Atlanta Hawks,56,0,1,0,0
+1997,Detroit Pistons,54,0,1,0,0
+1997,Charlotte Hornets,54,0,1,0,0
+1997,Orlando Magic,45,0,1,0,0
+1997,Washington Wizards,44,0,1,0,0
+1997,Utah Jazz,64,0,0,0,1
+1997,Seattle Supersonics,57,0,0,0,0
+1997,Houston Rockets,57,0,0,0,0
+1997,LA Lakers,56,0,0,0,0
+1997,Portland Trail Blazers,49,0,0,0,0
+1997,Minnesota Timberwolves,40,0,0,0,0
+1997,Phoenix Suns,40,0,0,0,0
+1997,LA Clippers,36,0,0,0,0
+1996,Chicago Bulls,72,1,1,1,1
+1996,Orlando Magic,60,0,1,0,0
+1996,Indiana Pacers,52,0,1,0,0
+1996,Cleveland Cavaliers,47,0,1,0,0
+1996,New York Knicks,47,0,1,0,0
+1996,Atlanta Hawks,46,0,1,0,0
+1996,Detroit Pistons,46,0,1,0,0
+1996,Miami Heat,42,0,1,0,0
+1996,Seattle Supersonics,64,0,0,0,1
+1996,San Antonio Spurs,59,0,0,0,0
+1996,Utah Jazz,55,0,0,0,0
+1996,LA Lakers,53,0,0,0,0
+1996,Houston Rockets,48,0,0,0,0
+1996,Portland Trail Blazers,44,0,0,0,0
+1996,Phoenix Suns,41,0,0,0,0
+1996,Sacramento Kings,39,0,0,0,0
+1995,Orlando Magic,57,0,1,0,1
+1995,New York Knicks,55,0,1,0,0
+1995,Indiana Pacers,52,0,1,0,0
+1995,Charlotte Hornets,50,0,1,0,0
+1995,Chicago Bulls,47,0,1,0,0
+1995,Cleveland Cavaliers,43,0,1,0,0
+1995,Atlanta Hawks,42,0,1,0,0
+1995,Boston Celtics,35,0,1,0,0
+1995,San Antonio Spurs,62,0,0,1,1
+1995,Utah Jazz,60,0,0,0,0
+1995,Phoenix Suns,59,0,0,0,0
+1995,Seattle Supersonics,57,0,0,0,0
+1995,LA Lakers,48,0,0,0,0
+1995,Houston Rockets,47,1,0,0,0
+1995,Portland Trail Blazers,44,0,0,0,0
+1995,Denver Nuggets,41,0,0,0,0
+1994,Atlanta Hawks,57,0,1,0,1
+1994,New York Knicks,57,0,1,0,0
+1994,Chicago Bulls,55,0,1,0,0
+1994,Orlando Magic,50,0,1,0,0
+1994,Indiana Pacers,47,0,1,0,0
+1994,Cleveland Cavaliers,47,0,1,0,0
+1994,New Jersey Nets,45,0,1,0,0
+1994,Miami Heat,42,0,1,0,0
+1994,Seattle Supersonics,63,0,0,1,1
+1994,Houston Rockets,58,1,0,0,0
+1994,Phoenix Suns,56,0,0,0,0
+1994,San Antonio Spurs,55,0,0,0,0
+1994,Utah Jazz,53,0,0,0,0
+1994,Golden State Warriors,50,0,0,0,0
+1994,Portland Trail Blazers,47,0,0,0,0
+1994,Denver Nuggets,42,0,0,0,0
+1993,New York Knicks,60,0,1,0,1
+1993,Chicago Bulls,57,1,1,0,0
+1993,Cleveland Cavaliers,54,0,1,0,0
+1993,Boston Celtics,48,0,1,0,0
+1993,Charlotte Hornets,44,0,1,0,0
+1993,New Jersey Nets,43,0,1,0,0
+1993,Atlanta Hawks,43,0,1,0,0
+1993,Indiana Pacers,41,0,1,0,0
+1993,Phoenix Suns,62,0,0,1,1
+1993,Houston Rockets,55,0,0,0,0
+1993,Seattle Supersonics,55,0,0,0,0
+1993,Portland Trail Blazers,51,0,0,0,0
+1993,San Antonio Spurs,49,0,0,0,0
+1993,Utah Jazz,47,0,0,0,0
+1993,LA Clippers,41,0,0,0,0
+1993,LA Lakers,39,0,0,0,0
+1992,Chicago Bulls,67,1,1,1,1
+1992,Cleveland Cavaliers,57,0,1,0,0
+1992,Boston Celtics,51,0,1,0,0
+1992,New York Knicks,51,0,1,0,0
+1992,Detroit Pistons,48,0,1,0,0
+1992,New Jersey Nets,40,0,1,0,0
+1992,Indiana Pacers,40,0,1,0,0
+1992,Miami Heat,38,0,1,0,0
+1992,Portland Trail Blazers,57,0,0,0,1
+1992,Utah Jazz,55,0,0,0,0
+1992,Golden State Warriors,55,0,0,0,0
+1992,Phoenix Suns,53,0,0,0,0
+1992,San Antonio Spurs,47,0,0,0,0
+1992,Seattle Supersonics,47,0,0,0,0
+1992,LA Clippers,45,0,0,0,0
+1992,LA Lakers,43,0,0,0,0
+1991,Chicago Bulls,61,1,1,0,1
+1991,Boston Celtics,56,0,1,0,0
+1991,Detroit Pistons,50,0,1,0,0
+1991,Milwaukee Bucks,48,0,1,0,0
+1991,Philadelphia 76ers,44,0,1,0,0
+1991,Atlanta Hawks,43,0,1,0,0
+1991,Indiana Pacers,41,0,1,0,0
+1991,New York Knicks,39,0,1,0,0
+1991,Portland Trail Blazers,63,0,0,1,1
+1991,LA Lakers,58,0,0,0,0
+1991,San Antonio Spurs,55,0,0,0,0
+1991,Phoenix Suns,55,0,0,0,0
+1991,Utah Jazz,54,0,0,0,0
+1991,Houston Rockets,52,0,0,0,0
+1991,Golden State Warriors,44,0,0,0,0
+1991,Seattle Supersonics,41,0,0,0,0
+1990,Detroit Pistons,59,1,1,0,1
+1990,Chicago Bulls,55,0,1,0,0
+1990,Philadelphia 76ers,53,0,1,0,0
+1990,Boston Celtics,52,0,1,0,0
+1990,New York Knicks,45,0,1,0,0
+1990,Milwaukee Bucks,44,0,1,0,0
+1990,Cleveland Cavaliers,42,0,1,0,0
+1990,Indiana Pacers,42,0,1,0,0
+1990,LA Lakers,63,0,0,1,1
+1990,Portland Trail Blazers,59,0,0,0,0
+1990,San Antonio Spurs,56,0,0,0,0
+1990,Utah Jazz,55,0,0,0,0
+1990,Phoenix Suns,54,0,0,0,0
+1990,Dallas Mavericks,47,0,0,0,0
+1990,Denver Nuggets,43,0,0,0,0
+1990,Houston Rockets,41,0,0,0,0
