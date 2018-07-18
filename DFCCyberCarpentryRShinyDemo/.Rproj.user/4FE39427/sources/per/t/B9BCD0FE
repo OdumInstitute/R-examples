@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525275243658.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2742598197",
+    "id" : "B9BCD0FE",
+    "lastKnownWriteTime" : 1525285778,
+    "last_content_update" : 1525285778269,
+    "path" : "~/class2/shinywithmarkdown.Rmd",
+    "project_path" : "shinywithmarkdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "164,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

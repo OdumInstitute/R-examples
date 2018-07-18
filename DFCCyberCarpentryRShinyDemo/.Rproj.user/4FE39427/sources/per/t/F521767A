@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525284943366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2891056713",
+    "id" : "F521767A",
+    "lastKnownWriteTime" : 1525296523,
+    "last_content_update" : 1525296523505,
+    "path" : "~/class2/app/ui.R",
+    "project_path" : "app/ui.R",
+    "properties" : {
+        "cursorPosition" : "68,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

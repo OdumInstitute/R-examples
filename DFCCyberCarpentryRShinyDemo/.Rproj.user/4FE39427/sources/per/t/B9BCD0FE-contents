@@ -1,0 +1,165 @@
+---
+title: "shiny in markdown"
+author: The Yankee
+date: May 2, 2019
+output: html_document
+runtime: shiny
+---
+
+
+# Select input
+
+```{r select-input}
+
+selectInput(
+    inputId='StateSelection',
+    label='Please choose a state',
+    choices=list('nc', 'nj', 'ma'),
+    selected='ma'
+  
+  
+  
+)
+
+```
+
+
+
+```{r print-state}
+
+renderText(input$StateSelection)
+
+```
+
+
+```{r other-inputs}
+
+sliderInput(
+    inputId='slidersample',
+    label='This is a Slider',
+    min=0, max=10, value=5,
+)
+
+checkboxInput(
+  inputId='checksample',
+  label='check this'
+)
+
+radioButtons(
+  inputId='radioSample',
+  label='choose one',
+  choices=list('AB', 'a' , 'b')
+)
+ dateRangeInput(
+   inputId='DateRangeChoice',
+   label='Choose your dates'
+   
+   
+ ) 
+  
+# Text Input
+ 
+ 
+  
+  
+  
+  
+
+
+```
+
+```{r Text-Inputs}
+textInput(
+  inputId='TextSample',
+  label='write something',
+  placeholder='write on the ghost'
+)
+
+textAreaInput(
+  inputId='PasswordSample',
+  label='Enter the secret'
+  
+)
+
+renderText(input$PasswordSample)
+
+
+```
+
+# Show Data
+
+
+```{r  render-tables}
+
+renderTable(mtcars)
+
+renderDataTable(mtcars)
+
+DT::renderDataTable(mtcars)
+
+
+```
+
+
+# Plots
+
+```{r render-plot}
+
+renderPlot(hist(mtcars$mpg))
+
+
+
+```
+
+```{r render-choices}
+
+selectInput(
+  inputId='PlotColumn' ,
+  label='choose a column' ,
+  choices=names(mtcars)
+)
+
+sliderInput(
+  inputId='Bins' ,
+  label='choose number of bins',
+  min=5, max=50, value=30
+  
+  
+)
+
+
+```
+
+
+
+```{r gg-hist}
+library(ggplot2)
+renderPlot(
+  ggplot(mtcars, aes_string(x=input$PlotColumn)) +
+    geom_histogram(bins=input$Bins)
+  
+  
+)
+
+
+```
+
+```{r render-plotly}
+
+plotly::renderPlotly(
+  plotly::ggplotly( 
+    ggplot(mtcars, aes_string(x=input$PlotColumn)) +
+    geom_histogram(bins=input$Bins)
+  
+    
+    )
+  
+  
+  
+)
+
+
+```
+
+
+

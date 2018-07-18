@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525199008724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3474996453",
+    "id" : "DB9DB9A2",
+    "lastKnownWriteTime" : 1525208937,
+    "last_content_update" : 1525208937740,
+    "path" : "~/class2/blackboxtype.R",
+    "project_path" : "blackboxtype.R",
+    "properties" : {
+        "cursorPosition" : "145,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
